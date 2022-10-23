@@ -1,0 +1,24 @@
+INSTRUMENTATION_STATUS: class=com.example.lunchtray.OrderFunctionalityTests
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+com.example.lunchtray.OrderFunctionalityTests:
+INSTRUMENTATION_STATUS: test=radio_buttons_update_accompaniment_menu_subtotal
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=com.example.lunchtray.OrderFunctionalityTests
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=radio_buttons_update_accompaniment_menu_subtotal
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_RESULT: stream=
+
+Time: 5.394
+
+OK (1 test)
+
+
+INSTRUMENTATION_CODE: -1
+

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/icon_cost_of_service"
+        app:srcCompat = "@drawable/ic_store"
+        android:importantForAccessibility="no"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/cost_of_service"
+        app:layout_constraintBottom_toBottomOf="@+id/cost_of_service"/>
+
+
+  <!--
+        To create a text field as shown above, use a TextInputLayout with an enclosed TextInputEditText from the MDC library.
+        The Material text field can be easily customized to:
+
+        Display input text or a label that's always visible
+        Display an icon in the text field
+        Display helper or error messages
+
+
+        In the first task of this codelab,
+        you'll be replacing the cost of service EditText with a Material text field (which is composed of a TextInputLayout and TextInputEditText).
+
+        earlier in TextInputLayout constraint -> app:layout_constraintStart_toStartOf="parent"
+   -->
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/cost_of_service"
+        android:hint="@string/cost_of_service"
+        app:layout_constraintStart_toEndOf="@+id/icon_cost_of_service"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_margin="16dp">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal"
+            android:id="@+id/cost_of_service_edit_text" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <!-- When Manually Typing Out XML , We Need To Explicitly give ID ( start with @+id for that resource ) -->
+    <!-- When using resource ID in app code ( like in MainActivity ) use R.<type>.<name> format eg. R.string.button2 -->
+    <!-- layout_height : height as tall as content -->
+    <!-- layout_width : match_parent : but we cant set match_parent ot child of ConstraintLayout , also text field need not be as wide -->
+    <!-- The name of the constraints follows the form layout_constraint<Source>_to<Target>Of, where <Source> refers to the current view. <Target> refers to the edge of the target view that the current view is being constrained to, either the parent container or another view. -->
+<!--    <EditText-->
+<!--        android:layout_width="160dp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:id="@+id/cost_of_service"-->
+<!--        android:inputType="numberDecimal"-->
+<!--        android:hint="@string/cost_of_service"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent" />-->
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/icon_service_question"
+        app:srcCompat = "@drawable/ic_service"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/service_question"
+        app:layout_constraintBottom_toBottomOf="@+id/service_question"
+        android:importantForAccessibility="no"/>
+
+
+    <!-- Vertically, you want the TextView to be below the cost of service text field. Horizontally, you want the TextView aligned to the starting edge of the parent.
+    Note that there's no plus in @id/cost_of_service because the ID is already defined.
+    -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/how_was_the_service"
+        app:layout_constraintTop_toBottomOf="@id/cost_of_service"
+        app:layout_constraintStart_toEndOf="@+id/icon_service_question"
+        android:id="@+id/service_question"
+        android:layout_margin="16dp"
+        style="@style/Widget.TipTime.TextView"/>
+
+    <!-- o create each radio button option, create a RadioButton in your layout. However, because radio buttons are mutually exclusive, you must group them together inside a RadioGroup. By grouping them together, the system ensures that only one radio button can be selected at a time.
+     RadioGroup is the parent view and the RadioButtons are child views within it.
+    Set the android:orientation attribute to vertical. If you wanted the RadioButtons in a row, you would set the orientation to horizontal.
+     android:text = "" -> this is hardcoded text , values might change if app translates to other languages
+     instead use extract resource by hovering over the text
+     this will give result in app>res>values>string.xml file
+     A RadioGroup can be vertical or horizontal, and you can specify which RadioButton should be selected initially.
+     vertical orientation
+     ~
+     ~
+     ~
+     horizontal orientation
+     ~  ~  ~
+
+     earlier constraint of radio group -> app:layout_constraintStart_toStartOf="parent"
+
+
+     -->
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tip_options"
+        app:layout_constraintTop_toBottomOf="@id/service_question"
+        app:layout_constraintStart_toStartOf="@+id/service_question"
+        android:orientation="vertical"
+        android:checkedButton="@id/option_twenty_percent">
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/option_twenty_percent"
+            android:text="@string/amazing_20"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/option_eighteen_percent"
+            android:text="@string/good_18" />
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/option_fifteen_percent"
+            android:text="@string/okay_15" />
+    </RadioGroup>
+
+    <!-- You want the Switch to be as wide as the parent, so you might think the width should be set to match_parent. As noted earlier, you can't set match_parent on UI elements in a ConstraintLayout
+     You cannot use match_parent for any view in a ConstraintLayout. Instead use 0dp, which means match constraints.
+     Set the layout_height to wrap_content. This will make the Switch view as tall as the content inside.
+            top
+    start          end
+           bottom
+    -->
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/icon_round_up"
+        app:srcCompat = "@drawable/ic_round_up"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/round_up_switch"
+        app:layout_constraintBottom_toBottomOf="@+id/round_up_switch"
+        android:importantForAccessibility="no" />
+
+<!--    <Switch
+
+        earlier constraints before adding icon ->
+        app:layout_constraintStart_toStartOf="@id/tip_options"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tip_options"
+
+-->
+    <com.google.android.material.switchmaterial.SwitchMaterial
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/round_up_switch"
+        android:text="@string/round_up_tip"
+        app:layout_constraintStart_toEndOf="@+id/icon_round_up"
+        android:layout_margin="16dp"
+        app:layout_constraintTop_toBottomOf="@+id/tip_options"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:checked="true"
+        style="@style/Widget.TipTime.CompoundButton.Switch"/>
+
+
+    <!-- earlier constraint ->
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    -->
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="@+id/round_up_switch"
+        app:layout_constraintEnd_toEndOf="@+id/round_up_switch"
+        app:layout_constraintTop_toBottomOf="@id/round_up_switch"
+        android:text="@string/calculate"
+        android:id="@+id/calculate_button"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/calculate_button"
+        android:id="@+id/tip_result"
+        tools:text="Tip Amount: $10"
+        android:layout_marginTop="8dp"
+        style="@style/Widget.TipTime.TextView"/>
+
+    <!--
+
+    You can add a label to a Switch without using a separate TextView.
+    Each child of a ConstraintLayout needs to have vertical and horizontal constraints.
+    Use "start" and "end" constraints to handle both Left to Right (LTR) and Right to Left (RTL) languages.
+    Names of the constraint attributes follow the form layout_constraint<Source>_to<Target>Of.
+    To make a View as wide as the ConstraintLayout it's in, constrain the start and end to the start and end of the parent, and set the width to 0dp.
+
+    -->
+</androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
+
+<!-- Vector drawables are represented as XML files that store the instructions on how to create an image
+rather than saving the actual pixels that make up that image.
+Vector drawables can be scaled up or down without any loss of visual quality or increase in file size.
+
+
+ Open the Resource Manager tab located on the left of the application window.
+Click the + icon and select Vector Asset.
+
+You just added vector drawables to your app, but it's important to note that support for vector drawables
+ n the Android platform wasn't added until Android 5.0 (API level 21).
+
+Based on how you set up the project, the minimum SDK version for the Tip Time app is API 19.
+That means the app can run on Android devices that are running Android platform version 19 or higher.
+
+To make your app work on these older versions of Android (known as backwards compatibility),
+add the vectorDrawables element to your app's build.gradle file.
+This enables you to use vector drawables on versions of the platform less than API 21, versus converting to PNGs when the project is built
+
+app/build.gradle
+android {
+  defaultConfig {
+    ...
+    vectorDrawables.useSupportLibrary = true
+   }
+   ...
+}
+
+
+
+ -->

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.lunchtray.app-mergeDebugResources-49:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\teesh\\.gradle\\caches\\transforms-3\\b4e80446c0fa608b61d217ca6b960b0e\\transformed\\appcompat-1.5.0\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

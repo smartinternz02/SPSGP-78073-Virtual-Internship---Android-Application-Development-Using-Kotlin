@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.lunchtray.app-mergeDebugResources-50:/layout/fragment_entree_menu.xml",
+        "source": "com.example.lunchtray.app-main-53:/layout/fragment_entree_menu.xml"
+    },
+    {
+        "merged": "com.example.lunchtray.app-mergeDebugResources-50:/layout/activity_main.xml",
+        "source": "com.example.lunchtray.app-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.lunchtray.app-mergeDebugResources-50:/layout/fragment_checkout.xml",
+        "source": "com.example.lunchtray.app-main-53:/layout/fragment_checkout.xml"
+    },
+    {
+        "merged": "com.example.lunchtray.app-mergeDebugResources-50:/layout/fragment_start_order.xml",
+        "source": "com.example.lunchtray.app-main-53:/layout/fragment_start_order.xml"
+    },
+    {
+        "merged": "com.example.lunchtray.app-mergeDebugResources-50:/layout/fragment_side_menu.xml",
+        "source": "com.example.lunchtray.app-main-53:/layout/fragment_side_menu.xml"
+    },
+    {
+        "merged": "com.example.lunchtray.app-mergeDebugResources-50:/layout/fragment_accompaniment_menu.xml",
+        "source": "com.example.lunchtray.app-main-53:/layout/fragment_accompaniment_menu.xml"
+    }
+]

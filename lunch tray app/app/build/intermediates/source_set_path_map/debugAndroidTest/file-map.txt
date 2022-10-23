@@ -1,0 +1,23 @@
+com.example.lunchtray.test.app-navigation-testing-2.5.1-0 C:\Users\teesh\.gradle\caches\transforms-3\04c75382bbd6943d74ccd1126a414d5b\transformed\navigation-testing-2.5.1\res
+com.example.lunchtray.test.app-lifecycle-livedata-core-2.5.1-1 C:\Users\teesh\.gradle\caches\transforms-3\13b13caafcd8965cf31c75889eb2ee9e\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.lunchtray.test.app-activity-1.5.1-2 C:\Users\teesh\.gradle\caches\transforms-3\4a378741889e694b18458a120c95b338\transformed\activity-1.5.1\res
+com.example.lunchtray.test.app-navigation-common-2.5.1-3 C:\Users\teesh\.gradle\caches\transforms-3\55ba09676e29534ab519e87248fb9449\transformed\navigation-common-2.5.1\res
+com.example.lunchtray.test.app-lifecycle-viewmodel-savedstate-2.5.1-4 C:\Users\teesh\.gradle\caches\transforms-3\55dcae88148528404a64699a5090ef73\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.lunchtray.test.app-lifecycle-viewmodel-ktx-2.5.1-5 C:\Users\teesh\.gradle\caches\transforms-3\60e5af43d4039be457d4ae08e5bb264c\transformed\lifecycle-viewmodel-ktx-2.5.1\res
+com.example.lunchtray.test.app-navigation-runtime-2.5.1-6 C:\Users\teesh\.gradle\caches\transforms-3\6f2761ebcf8d67165eb0bdc3c6c0a80c\transformed\navigation-runtime-2.5.1\res
+com.example.lunchtray.test.app-lifecycle-runtime-2.5.1-7 C:\Users\teesh\.gradle\caches\transforms-3\90ba4b4f8c022d7795d90f0938295a73\transformed\lifecycle-runtime-2.5.1\res
+com.example.lunchtray.test.app-savedstate-1.2.0-8 C:\Users\teesh\.gradle\caches\transforms-3\93c7ba5c7bfd701b61cc01056c21a44b\transformed\savedstate-1.2.0\res
+com.example.lunchtray.test.app-activity-ktx-1.5.1-9 C:\Users\teesh\.gradle\caches\transforms-3\9701d3adef340cdf92a3c80e9126ac98\transformed\activity-ktx-1.5.1\res
+com.example.lunchtray.test.app-savedstate-ktx-1.2.0-10 C:\Users\teesh\.gradle\caches\transforms-3\a4de3cec4e7baa919a085c0c347bfa58\transformed\savedstate-ktx-1.2.0\res
+com.example.lunchtray.test.app-annotation-experimental-1.1.0-11 C:\Users\teesh\.gradle\caches\transforms-3\b7717cfe813560383de51c2c6a7befbd\transformed\annotation-experimental-1.1.0\res
+com.example.lunchtray.test.app-lifecycle-runtime-ktx-2.5.1-12 C:\Users\teesh\.gradle\caches\transforms-3\c06ac664ea34d19112a9b9905b0a6c2d\transformed\lifecycle-runtime-ktx-2.5.1\res
+com.example.lunchtray.test.app-core-1.8.0-13 C:\Users\teesh\.gradle\caches\transforms-3\c4b1d069df128111c782af2e263a4332\transformed\core-1.8.0\res
+com.example.lunchtray.test.app-lifecycle-viewmodel-2.5.1-14 C:\Users\teesh\.gradle\caches\transforms-3\f8a96f3e3063d2bd874c239c76982544\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.lunchtray.test.app-core-ktx-1.8.0-15 C:\Users\teesh\.gradle\caches\transforms-3\fc77da9c1d2df3a0a2d4e4926d29f1c9\transformed\core-ktx-1.8.0\res
+com.example.lunchtray.test.app-androidTest-16 C:\Users\teesh\AndroidStudioProjects\Unit 3 ( Navigation )\android-basics-kotlin-lunch-tray-app-main\app\build\generated\res\resValues\androidTest\debug
+com.example.lunchtray.test.app-androidTest-17 C:\Users\teesh\AndroidStudioProjects\Unit 3 ( Navigation )\android-basics-kotlin-lunch-tray-app-main\app\build\generated\res\rs\androidTest\debug
+com.example.lunchtray.test.app-mergeDebugAndroidTestResources-18 C:\Users\teesh\AndroidStudioProjects\Unit 3 ( Navigation )\android-basics-kotlin-lunch-tray-app-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.lunchtray.test.app-mergeDebugAndroidTestResources-19 C:\Users\teesh\AndroidStudioProjects\Unit 3 ( Navigation )\android-basics-kotlin-lunch-tray-app-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.lunchtray.test.app-merged_res-20 C:\Users\teesh\AndroidStudioProjects\Unit 3 ( Navigation )\android-basics-kotlin-lunch-tray-app-main\app\build\intermediates\merged_res\debugAndroidTest
+com.example.lunchtray.test.app-androidTest-21 C:\Users\teesh\AndroidStudioProjects\Unit 3 ( Navigation )\android-basics-kotlin-lunch-tray-app-main\app\src\androidTest\res
+com.example.lunchtray.test.app-androidTestDebug-22 C:\Users\teesh\AndroidStudioProjects\Unit 3 ( Navigation )\android-basics-kotlin-lunch-tray-app-main\app\src\androidTestDebug\res

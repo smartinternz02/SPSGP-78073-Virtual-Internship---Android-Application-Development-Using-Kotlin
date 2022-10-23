@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.lunchtray.OrderFunctionalityTests" tests="1" failures="0" errors="0" skipped="0" time="5.791" timestamp="2022-08-28T19:56:46" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_5_API_31_2(AVD) - 12" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="radio_buttons_update_accompaniment_menu_subtotal" classname="com.example.lunchtray.OrderFunctionalityTests" time="4.429" />
+</testsuite>

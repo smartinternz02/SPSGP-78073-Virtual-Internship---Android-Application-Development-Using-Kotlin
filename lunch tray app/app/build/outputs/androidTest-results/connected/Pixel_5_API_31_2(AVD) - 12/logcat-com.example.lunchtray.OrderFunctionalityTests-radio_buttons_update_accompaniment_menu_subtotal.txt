@@ -1,0 +1,1069 @@
+08-29 01:26:40.338  8191  8218 I TestRunner: started: radio_buttons_update_accompaniment_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)
+08-29 01:26:40.354  1264  7891 I PTCommittedOperation: Receive new configuration for com.google.android.gms.common.download
+08-29 01:26:40.357  1264  8220 I FA-SVC  : App measurement initialized, version: 214218
+08-29 01:26:40.360  1336  7849 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:40.361  8191  8218 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+08-29 01:26:40.364  1336  6542 V Backup  : [PhenotypeConfigIO] Phenotype broadcast received for different package
+08-29 01:26:40.365  1336  7972 I SyncIntentOperation: Handling the intent: Intent { act=com.google.android.gms.phenotype.COMMITTED flg=0x10 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }. [CONTEXT service_id=80 ]
+08-29 01:26:40.371  1336  7959 I MdiSyncModule: flag handling is skipping irrelevant intent.
+08-29 01:26:40.383  8191  8218 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10147; state: ENABLED
+08-29 01:26:40.403  1264  6277 W TapAndPay: platformSupportsGooglePay: true [CONTEXT service_id=79 ]
+08-29 01:26:40.407  1264  7876 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:40.409  1264  6277 W TapAndPay: hasManagedProfile: false [CONTEXT service_id=79 ]
+08-29 01:26:40.411  1264  7876 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:40.412  1264  6277 W TapAndPay: isChromeOsDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:40.418  1264  7876 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:40.422  1336  6537 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:40.422  1264  7876 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:40.426  1264  7876 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:40.430  1264  6277 W TapAndPay: isUncertifiedDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:40.431  1264  7876 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:40.433  1264  6277 W TapAndPay: deviceSupportsTokenization: true [CONTEXT service_id=79 ]
+08-29 01:26:40.434  1264  7876 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:40.435  1264  6277 W TapAndPay: isGooglePayEnabled: true [CONTEXT service_id=79 ]
+08-29 01:26:40.436  1264  7876 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:40.445  1336  6537 I GmsSyncPolicyEngine: Periodic sync 1 disabled by policy, cancelled.
+08-29 01:26:40.447  1264  7876 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:40.449  1264  7876 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:40.452  1264  7876 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:40.453  1264  7876 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:40.456  1264  7876 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:40.459  1264  7876 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.potokens [CONTEXT service_id=204 ]
+08-29 01:26:40.459  1264  7876 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.potokens
+08-29 01:26:40.459  1264  7876 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:40.459  1264  7876 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:40.459  1264  7876 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:40.459  1264  7876 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:40.459  1264  7876 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:40.459  1264  7876 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:40.459  1264  7876 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:40.459  1264  7876 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:40.459  1264  7876 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:40.459  1264  7876 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:40.605  1336  6537 I GmsSyncPolicyEngine: Periodic sync 2 disabled by policy, cancelled.
+08-29 01:26:40.625   570  2481 W system_server: Long monitor contention with owner ActivityManager (629) at void com.android.server.am.BroadcastQueue.processNextBroadcast(boolean)(BroadcastQueue.java:1005) waiters=1 in int com.android.server.am.ActivityManagerService.broadcastIntentWithFeature(android.app.IApplicationThread, java.lang.String, android.content.Intent, java.lang.String, android.content.IIntentReceiver, int, java.lang.String, android.os.Bundle, java.lang.String[], java.lang.String[], java.lang.String[], int, android.os.Bundle, boolean, boolean, int) for 119ms
+08-29 01:26:40.638   902   969 D SplashScreenView: Build android.window.SplashScreenView{7e96005 V.E...... ......ID 0,0-0,0}
+08-29 01:26:40.638   902   969 D SplashScreenView: Icon: view: null drawable: null size: 0
+08-29 01:26:40.638   902   969 D SplashScreenView: Branding: view: android.view.View{27d985a G.ED..... ......I. 0,0-0,0 #10204a6 android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+08-29 01:26:40.687  8191  8223 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+08-29 01:26:40.690  8191  8223 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+08-29 01:26:40.698  8191  8223 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+08-29 01:26:40.699  1264  5738 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:40.703  1264  5738 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:40.705  1264  5738 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:40.706  1264  5738 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:40.707  1264  5738 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:40.708  1264  5738 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:40.709  1264  5738 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:40.710  1264  5738 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:40.717  1264  5738 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:40.724  1264  5738 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:40.724  1264  5738 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:40.725  1264  5738 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:40.727  1264  5738 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:40.730  1264  5738 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.vision.sdk [CONTEXT service_id=204 ]
+08-29 01:26:40.730  1264  5738 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.vision.sdk
+08-29 01:26:40.730  1264  5738 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:40.730  1264  5738 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:40.730  1264  5738 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:40.730  1264  5738 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:40.730  1264  5738 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:40.730  1264  5738 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:40.730  1264  5738 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:40.730  1264  5738 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:40.730  1264  5738 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:40.730  1264  5738 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:40.736  8191  8191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c03a593 in: PRE_ON_CREATE
+08-29 01:26:40.737  8191  8191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c03a593
+08-29 01:26:40.764   368   412 D goldfish-address-space: claimShared: Ask to claim region [0x3f6264000 0x3f6c08000]
+08-29 01:26:40.777  1336  7971 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:40.780  1336  6542 V Backup  : [PhenotypeConfigIO] Phenotype broadcast received for different package
+08-29 01:26:40.783  1336  7972 I SyncIntentOperation: Handling the intent: Intent { act=com.google.android.gms.phenotype.COMMITTED flg=0x10 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }. [CONTEXT service_id=80 ]
+08-29 01:26:40.797  1264  6277 I PTCommittedOperation: Receive new configuration for com.google.android.gms.vision.sdk
+08-29 01:26:40.808  1264  7557 W TapAndPay: platformSupportsGooglePay: true [CONTEXT service_id=79 ]
+08-29 01:26:40.810   368   412 D goldfish-address-space: claimShared: Ask to claim region [0x3f9348000 0x3f9cec000]
+08-29 01:26:40.813  1336  7768 I MdiSyncModule: flag handling is skipping irrelevant intent.
+08-29 01:26:40.829   368   412 D goldfish-address-space: claimShared: Ask to claim region [0x3f9cec000 0x3fa690000]
+08-29 01:26:40.853  1264  7557 W TapAndPay: hasManagedProfile: false [CONTEXT service_id=79 ]
+08-29 01:26:40.853  1264  7557 W TapAndPay: isChromeOsDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:40.859  1226  2078 D EGL_emulation: app_time_stats: avg=3962.40ms min=3962.40ms max=3962.40ms count=1
+08-29 01:26:40.861  1264  7557 W TapAndPay: isUncertifiedDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:40.866  1264  7557 W TapAndPay: deviceSupportsTokenization: true [CONTEXT service_id=79 ]
+08-29 01:26:40.875  1264  7557 W TapAndPay: isGooglePayEnabled: true [CONTEXT service_id=79 ]
+08-29 01:26:40.880  2487  2487 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+08-29 01:26:40.886  2487  2487 E HwDetectorWithState: a: 3
+08-29 01:26:40.894  8191  8191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c03a593 in: CREATED
+08-29 01:26:40.896  8191  8191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c03a593
+08-29 01:26:40.900  8191  8191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c03a593 in: STARTED
+08-29 01:26:40.902  8191  8191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c03a593
+08-29 01:26:40.915  1264  6277 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:40.917  1264  6277 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:40.929  8191  8191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c03a593 in: RESUMED
+08-29 01:26:40.930  1264  6277 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:40.930  8191  8191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c03a593
+08-29 01:26:40.937  1264  6277 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:40.939  1264  6277 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:40.943  1264  6277 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:40.947  1264  6277 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:40.949  1336  7972 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:40.957  1264  6277 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:40.957  8191  8191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c03a593 in: PAUSED
+08-29 01:26:40.959  8191  8191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c03a593
+08-29 01:26:40.961  1336  7971 I GmsSyncPolicyEngine: Periodic sync 1 disabled by policy, cancelled.
+08-29 01:26:40.964  1264  6277 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:40.964  1264  6277 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:40.970  1264  6277 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:40.973  1264  6277 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:40.973  1264  6277 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:40.979  1264  6277 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.security [CONTEXT service_id=204 ]
+08-29 01:26:40.979  1264  6277 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.security
+08-29 01:26:40.979  1264  6277 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:40.979  1264  6277 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:40.979  1264  6277 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:40.979  1264  6277 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:40.979  1264  6277 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:40.979  1264  6277 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:40.979  1264  6277 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:40.979  1264  6277 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:40.979  1264  6277 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:40.979  1264  6277 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:40.999  1336  7971 I GmsSyncPolicyEngine: Periodic sync 2 disabled by policy, cancelled.
+08-29 01:26:41.031  1264  6297 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:41.032  1264  6297 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:41.038  1264  6297 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:41.040  1264  6297 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:41.046  1264  6297 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:41.051  1264  6297 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:41.057  1264  6297 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:41.064  1264  6297 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:41.064  1336  7972 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:41.074  1336  6542 V Backup  : [PhenotypeConfigIO] Phenotype broadcast received for different package
+08-29 01:26:41.074  1264  6297 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:41.075  1336  7849 I SyncIntentOperation: Handling the intent: Intent { act=com.google.android.gms.phenotype.COMMITTED flg=0x10 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }. [CONTEXT service_id=80 ]
+08-29 01:26:41.080  2231  2360 E cr_CronetUrlRequestContext: Exception in upload method
+08-29 01:26:41.080  2231  2360 E cr_CronetUrlRequestContext: com.google.android.apps.gsa.shared.q.d: Error code: 656394 | null
+08-29 01:26:41.080  2231  2360 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.gsa.c.a.n.fZ(SourceFile:1)
+08-29 01:26:41.080  2231  2360 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.gsa.k.a.n.fZ(SourceFile:2)
+08-29 01:26:41.080  2231  2360 E cr_CronetUrlRequestContext: 	at com.google.common.w.a.bv.run(SourceFile:6)
+08-29 01:26:41.080  2231  2360 E cr_CronetUrlRequestContext: 	at com.google.android.apps.gsa.shared.util.c.a.bt.b(SourceFile:1)
+08-29 01:26:41.080  2231  2360 E cr_CronetUrlRequestContext: 	at com.google.android.apps.gsa.shared.util.c.a.bw.run(SourceFile:1)
+08-29 01:26:41.080  2231  2360 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.g.ab.run(SourceFile:1)
+08-29 01:26:41.080  2231  2360 E cr_CronetUrlRequestContext: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:41.080  2231  2360 E cr_CronetUrlRequestContext: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:41.080  2231  2360 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.g.n.run(SourceFile:2)
+08-29 01:26:41.080  2231  2360 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.g.d.run(SourceFile:2)
+08-29 01:26:41.080  2231  2360 E cr_CronetUrlRequestContext: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:41.080  2231  2360 E cr_CronetUrlRequestContext: Caused by: java.util.concurrent.TimeoutException
+08-29 01:26:41.080  2231  2360 E cr_CronetUrlRequestContext: 	at com.google.android.apps.gsa.shared.util.c.w.run(SourceFile:2)
+08-29 01:26:41.080  2231  2360 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.gsa.k.a.k.run(SourceFile:2)
+08-29 01:26:41.080  2231  2360 E cr_CronetUrlRequestContext: 	at com.google.android.apps.gsa.shared.util.c.a.bt.b(SourceFile:1)
+08-29 01:26:41.080  2231  2360 E cr_CronetUrlRequestContext: 	at com.google.android.apps.gsa.shared.util.c.a.bw.run(SourceFile:1)
+08-29 01:26:41.080  2231  2360 E cr_CronetUrlRequestContext: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+08-29 01:26:41.080  2231  2360 E cr_CronetUrlRequestContext: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+08-29 01:26:41.080  2231  2360 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.g.r.run(SourceFile:1)
+08-29 01:26:41.080  2231  2360 E cr_CronetUrlRequestContext: 	... 5 more
+08-29 01:26:41.081  2231  2359 E cr_CronetUrlRequestContext: Exception in upload method
+08-29 01:26:41.081  2231  2359 E cr_CronetUrlRequestContext: com.google.android.apps.gsa.shared.q.d: Error code: 656394 | null
+08-29 01:26:41.081  2231  2359 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.gsa.c.a.n.fZ(SourceFile:1)
+08-29 01:26:41.081  2231  2359 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.gsa.k.a.n.fZ(SourceFile:2)
+08-29 01:26:41.081  2231  2359 E cr_CronetUrlRequestContext: 	at com.google.common.w.a.bv.run(SourceFile:6)
+08-29 01:26:41.081  2231  2359 E cr_CronetUrlRequestContext: 	at com.google.android.apps.gsa.shared.util.c.a.bt.b(SourceFile:1)
+08-29 01:26:41.081  2231  2359 E cr_CronetUrlRequestContext: 	at com.google.android.apps.gsa.shared.util.c.a.bw.run(SourceFile:1)
+08-29 01:26:41.081  2231  2359 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.g.ab.run(SourceFile:1)
+08-29 01:26:41.081  2231  2359 E cr_CronetUrlRequestContext: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:41.081  2231  2359 E cr_CronetUrlRequestContext: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:41.081  2231  2359 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.g.n.run(SourceFile:2)
+08-29 01:26:41.081  2231  2359 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.g.d.run(SourceFile:2)
+08-29 01:26:41.081  2231  2359 E cr_CronetUrlRequestContext: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:41.081  2231  2359 E cr_CronetUrlRequestContext: Caused by: java.util.concurrent.TimeoutException
+08-29 01:26:41.081  2231  2359 E cr_CronetUrlRequestContext: 	at com.google.android.apps.gsa.shared.util.c.w.run(SourceFile:2)
+08-29 01:26:41.081  2231  2359 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.gsa.k.a.k.run(SourceFile:2)
+08-29 01:26:41.081  2231  2359 E cr_CronetUrlRequestContext: 	at com.google.android.apps.gsa.shared.util.c.a.bt.b(SourceFile:1)
+08-29 01:26:41.081  2231  2359 E cr_CronetUrlRequestContext: 	at com.google.android.apps.gsa.shared.util.c.a.bw.run(SourceFile:1)
+08-29 01:26:41.081  2231  2359 E cr_CronetUrlRequestContext: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+08-29 01:26:41.081  2231  2359 E cr_CronetUrlRequestContext: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+08-29 01:26:41.081  2231  2359 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.g.r.run(SourceFile:1)
+08-29 01:26:41.081  2231  2359 E cr_CronetUrlRequestContext: 	... 5 more
+08-29 01:26:41.086  1264  6297 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:41.089  1264  6297 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:41.095  1264  6297 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:41.109  1264  6297 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:41.111  1264  6297 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.locationsharing [CONTEXT service_id=204 ]
+08-29 01:26:41.111  1264  6297 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.locationsharing
+08-29 01:26:41.111  1264  6297 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:41.111  1264  6297 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:41.111  1264  6297 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:41.111  1264  6297 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:41.111  1264  6297 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:41.111  1264  6297 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:41.111  1264  6297 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:41.111  1264  6297 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:41.111  1264  6297 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:41.111  1264  6297 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:41.113  1336  6542 I MdiSyncModule: flag handling is skipping irrelevant intent.
+08-29 01:26:41.117  1264  7557 I PTCommittedOperation: Receive new configuration for com.google.android.gms.locationsharing
+08-29 01:26:41.125  8191  8191 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@7be5b39 in: PRE_ON_CREATE
+08-29 01:26:41.126  8191  8191 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+08-29 01:26:41.135  1264  7557 W TapAndPay: platformSupportsGooglePay: true [CONTEXT service_id=79 ]
+08-29 01:26:41.136  1264  7557 W TapAndPay: hasManagedProfile: false [CONTEXT service_id=79 ]
+08-29 01:26:41.144  1264  7557 W TapAndPay: isChromeOsDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:41.147  1336  6537 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:41.150  1264  7557 W TapAndPay: isUncertifiedDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:41.151  1264  7557 W TapAndPay: deviceSupportsTokenization: true [CONTEXT service_id=79 ]
+08-29 01:26:41.151  1264  7557 W TapAndPay: isGooglePayEnabled: true [CONTEXT service_id=79 ]
+08-29 01:26:41.154  1336  7972 I GmsSyncPolicyEngine: Periodic sync 1 disabled by policy, cancelled.
+08-29 01:26:41.160  1336  7972 I GmsSyncPolicyEngine: Periodic sync 2 disabled by policy, cancelled.
+08-29 01:26:41.207  1264  7557 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:41.208  1264  7557 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:41.209  1264  7557 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:41.210  1264  7557 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:41.212  1264  7557 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:41.213  1264  7557 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:41.214  1264  7557 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:41.215  1264  7557 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:41.217  1264  7557 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:41.218  1264  7557 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:41.228  2231  2231 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=145, right=0, bottom=132}
+08-29 01:26:41.233  1264  7557 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:41.233  2231  2231 I A       : onApplyWindowInsets: Adjusting for display cutouts. Safe insets: left=0, top=136, right=0, bottom=0
+08-29 01:26:41.235  1264  7557 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:41.241  1264  7557 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:41.241  1264  7938 I PTCommittedOperation: Receive new configuration for com.google.android.gms.panorama
+08-29 01:26:41.243  1264  7557 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.panorama [CONTEXT service_id=204 ]
+08-29 01:26:41.243  1264  7557 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.panorama
+08-29 01:26:41.243  1264  7557 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:41.243  1264  7557 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:41.243  1264  7557 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:41.243  1264  7557 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:41.243  1264  7557 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:41.243  1264  7557 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:41.243  1264  7557 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:41.243  1264  7557 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:41.243  1264  7557 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:41.243  1264  7557 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:41.247  2231  2231 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=145, right=0, bottom=132}
+08-29 01:26:41.261  1336  6537 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:41.261  1336  7849 V Backup  : [PhenotypeConfigIO] Phenotype broadcast received for different package
+08-29 01:26:41.263  1336  6537 I SyncIntentOperation: Handling the intent: Intent { act=com.google.android.gms.phenotype.COMMITTED flg=0x10 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }. [CONTEXT service_id=80 ]
+08-29 01:26:41.285  8191  8191 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@7be5b39 in: CREATED
+08-29 01:26:41.286  8191  8191 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@7be5b39
+08-29 01:26:41.290  8191  8191 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@7be5b39 in: STARTED
+08-29 01:26:41.290  8191  8191 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@7be5b39
+08-29 01:26:41.293  8191  8191 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@7be5b39 in: RESUMED
+08-29 01:26:41.294  8191  8191 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@7be5b39
+08-29 01:26:41.298  1264  6277 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:41.302  1264  6277 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:41.305  1264  6277 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:41.306  1264  6277 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:41.308  1264  5738 W TapAndPay: platformSupportsGooglePay: true [CONTEXT service_id=79 ]
+08-29 01:26:41.309  1264  5738 W TapAndPay: hasManagedProfile: false [CONTEXT service_id=79 ]
+08-29 01:26:41.309  1264  5738 W TapAndPay: isChromeOsDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:41.310  1264  5738 W TapAndPay: isUncertifiedDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:41.310  1264  5738 W TapAndPay: deviceSupportsTokenization: true [CONTEXT service_id=79 ]
+08-29 01:26:41.310  1264  5738 W TapAndPay: isGooglePayEnabled: true [CONTEXT service_id=79 ]
+08-29 01:26:41.314  1264  6277 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:41.317  1264  6277 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:41.318  1264  6277 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:41.319  1264  6277 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:41.325  1264  6277 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:41.326  1264  6277 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:41.327  1264  6277 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:41.329  1264  6277 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:41.329  1264  7939 I PTCommittedOperation: Receive new configuration for com.google.android.gms.trustlet_place
+08-29 01:26:41.330  1264  6277 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:41.332  1264  6277 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.trustlet_place [CONTEXT service_id=204 ]
+08-29 01:26:41.332  1264  6277 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.trustlet_place
+08-29 01:26:41.332  1264  6277 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:41.332  1264  6277 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:41.332  1264  6277 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:41.332  1264  6277 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:41.332  1264  6277 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:41.332  1264  6277 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:41.332  1264  6277 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:41.332  1264  6277 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:41.332  1264  6277 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:41.332  1264  6277 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:41.341  1336  6537 I MdiSyncModule: flag handling is skipping irrelevant intent.
+08-29 01:26:41.348  1336  6537 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:41.356  1264  5738 W TapAndPay: platformSupportsGooglePay: true [CONTEXT service_id=79 ]
+08-29 01:26:41.357  1264  5738 W TapAndPay: hasManagedProfile: false [CONTEXT service_id=79 ]
+08-29 01:26:41.357  1264  5738 W TapAndPay: isChromeOsDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:41.361  1264  5738 W TapAndPay: isUncertifiedDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:41.362  1264  5738 W TapAndPay: deviceSupportsTokenization: true [CONTEXT service_id=79 ]
+08-29 01:26:41.362  1264  5738 W TapAndPay: isGooglePayEnabled: true [CONTEXT service_id=79 ]
+08-29 01:26:41.373  1336  6542 I GmsSyncPolicyEngine: Periodic sync 1 disabled by policy, cancelled.
+08-29 01:26:41.381  1336  6542 I GmsSyncPolicyEngine: Periodic sync 2 disabled by policy, cancelled.
+08-29 01:26:41.383  8191  8222 D HostConnection: createUnique: call
+08-29 01:26:41.387  8191  8222 D HostConnection: HostConnection::get() New Host Connection established 0x7d1222b2a9d0, tid 8222
+08-29 01:26:41.396  8191  8222 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+08-29 01:26:41.401   198   198 I hwservicemanager: getTransport: Cannot find entry android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default in either framework or device VINTF manifest.
+08-29 01:26:41.402  8191  8222 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+08-29 01:26:41.402  8191  8222 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+08-29 01:26:41.428  1336  7959 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:41.430  1336  7971 V Backup  : [PhenotypeConfigIO] Phenotype broadcast received for different package
+08-29 01:26:41.430  8191  8222 D EGL_emulation: eglCreateContext: 0x7d1222b29b90: maj 2 min 0 rcv 2
+08-29 01:26:41.436  1336  7768 I MdiSyncModule: flag handling is skipping irrelevant intent.
+08-29 01:26:41.436  8191  8222 D EGL_emulation: eglMakeCurrent: 0x7d1222b29b90: ver 2 0 (tinfo 0x7d143693c080) (first time)
+08-29 01:26:41.437  1336  7971 I SyncIntentOperation: Handling the intent: Intent { act=com.google.android.gms.phenotype.COMMITTED flg=0x10 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }. [CONTEXT service_id=80 ]
+08-29 01:26:41.449  1264  6277 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:41.453  1264  6277 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:41.456  1264  6277 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:41.462  1336  7849 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:41.464  1264  6277 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:41.465   431  1321 E HWComposer: getSupportedContentTypes: getSupportedContentTypes failed for display 4619827259835644672: Unsupported (8)
+08-29 01:26:41.469  1264  6277 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:41.470   198   198 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+08-29 01:26:41.470  8191  8222 I Gralloc4: mapper 4.x is not supported
+08-29 01:26:41.473  1264  6277 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:41.474  1264  6277 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:41.474  8191  8222 D HostConnection: createUnique: call
+08-29 01:26:41.475  8191  8222 D HostConnection: HostConnection::get() New Host Connection established 0x7d1222b2a3d0, tid 8222
+08-29 01:26:41.475  8191  8222 D goldfish-address-space: allocate: Ask for block of size 0x100
+08-29 01:26:41.476  8191  8222 D goldfish-address-space: allocate: ioctl allocate returned offset 0x3f3ffe000 size 0x2000
+08-29 01:26:41.479  1264  6277 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:41.484   198   198 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.allocator@4.0::IAllocator/default in either framework or device VINTF manifest.
+08-29 01:26:41.484  8191  8222 W Gralloc4: allocator 4.x is not supported
+08-29 01:26:41.486   368   412 D goldfish-address-space: claimShared: Ask to claim region [0x3f6c08000 0x3f75ac000]
+08-29 01:26:41.502  1264  6277 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:41.502  1264  6277 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:41.506  1264  6277 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:41.508  1264  6277 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:41.509  1264  6277 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:41.511  1264  6277 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.appstate [CONTEXT service_id=204 ]
+08-29 01:26:41.511  1264  6277 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.appstate
+08-29 01:26:41.511  1264  6277 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:41.511  1264  6277 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:41.511  1264  6277 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:41.511  1264  6277 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:41.511  1264  6277 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:41.511  1264  6277 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:41.511  1264  6277 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:41.511  1264  6277 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:41.511  1264  6277 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:41.511  1264  6277 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:41.514  1336  7892 I GmsSyncPolicyEngine: Periodic sync 1 disabled by policy, cancelled.
+08-29 01:26:41.517  8191  8222 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+08-29 01:26:41.520   368   412 D goldfish-address-space: claimShared: Ask to claim region [0x3f75ac000 0x3f7f50000]
+08-29 01:26:41.525   368   412 D goldfish-address-space: claimShared: Ask to claim region [0x3f4000000 0x3f49a4000]
+08-29 01:26:41.529  1336  7892 I GmsSyncPolicyEngine: Periodic sync 2 disabled by policy, cancelled.
+08-29 01:26:41.534  1264  6297 I PTCommittedOperation: Receive new configuration for com.google.android.gms.appstate
+08-29 01:26:41.541  1336  7971 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:41.542  1336  7972 I SyncIntentOperation: Handling the intent: Intent { act=com.google.android.gms.phenotype.COMMITTED flg=0x10 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }. [CONTEXT service_id=80 ]
+08-29 01:26:41.544  1336  7892 V Backup  : [PhenotypeConfigIO] Phenotype broadcast received for different package
+08-29 01:26:41.551  1336  7892 I MdiSyncModule: flag handling is skipping irrelevant intent.
+08-29 01:26:41.555  1336  7892 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:41.562  1336  7972 I GmsSyncPolicyEngine: Periodic sync 1 disabled by policy, cancelled.
+08-29 01:26:41.568  1336  7972 I GmsSyncPolicyEngine: Periodic sync 2 disabled by policy, cancelled.
+08-29 01:26:41.577  1264  6297 W TapAndPay: platformSupportsGooglePay: true [CONTEXT service_id=79 ]
+08-29 01:26:41.577  1264  6297 W TapAndPay: hasManagedProfile: false [CONTEXT service_id=79 ]
+08-29 01:26:41.577  1264  6297 W TapAndPay: isChromeOsDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:41.579  1264  6297 W TapAndPay: isUncertifiedDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:41.580  1264  6297 W TapAndPay: deviceSupportsTokenization: true [CONTEXT service_id=79 ]
+08-29 01:26:41.582  1264  6297 W TapAndPay: isGooglePayEnabled: true [CONTEXT service_id=79 ]
+08-29 01:26:41.610  1264  6277 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:41.622  1264  7939 I PTCommittedOperation: Receive new configuration for com.google.android.gms.learning.platformservices.sharing
+08-29 01:26:41.626  1336  6542 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:41.629  1336  7892 V Backup  : [PhenotypeConfigIO] Phenotype broadcast received for different package
+08-29 01:26:41.633  1264  6277 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:41.636  1264  6277 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:41.640  1264  6277 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:41.646  1336  6542 I SyncIntentOperation: Handling the intent: Intent { act=com.google.android.gms.phenotype.COMMITTED flg=0x10 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }. [CONTEXT service_id=80 ]
+08-29 01:26:41.646  1264  6277 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:41.654  1264  6277 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:41.662  1264  6277 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:41.663  1336  7892 I MdiSyncModule: flag handling is skipping irrelevant intent.
+08-29 01:26:41.666  1264  6297 W TapAndPay: platformSupportsGooglePay: true [CONTEXT service_id=79 ]
+08-29 01:26:41.670  1264  6277 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:41.672  1264  6297 W TapAndPay: hasManagedProfile: false [CONTEXT service_id=79 ]
+08-29 01:26:41.674  1264  6297 W TapAndPay: isChromeOsDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:41.676  1264  6277 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:41.677  1264  6297 W TapAndPay: isUncertifiedDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:41.677  1264  6297 W TapAndPay: deviceSupportsTokenization: true [CONTEXT service_id=79 ]
+08-29 01:26:41.677  1264  6297 W TapAndPay: isGooglePayEnabled: true [CONTEXT service_id=79 ]
+08-29 01:26:41.678  1264  6277 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:41.681  1264  6277 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:41.695  1336  7959 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:41.726  1336  7971 I GmsSyncPolicyEngine: Periodic sync 1 disabled by policy, cancelled.
+08-29 01:26:41.735  1264  6277 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:41.743  1264  6277 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:41.749  1264  6277 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.learning.platformservices.sharing [CONTEXT service_id=204 ]
+08-29 01:26:41.749  1264  6277 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.learning.platformservices.sharing
+08-29 01:26:41.749  1264  6277 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:41.749  1264  6277 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:41.749  1264  6277 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:41.749  1264  6277 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:41.749  1264  6277 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:41.749  1264  6277 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:41.749  1264  6277 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:41.749  1264  6277 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:41.749  1264  6277 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:41.749  1264  6277 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:41.783  1336  7971 I GmsSyncPolicyEngine: Periodic sync 2 disabled by policy, cancelled.
+08-29 01:26:41.792  1264  3301 W ConfigurationChimeraPro: Caller is not authorized to access Uri: content://com.google.android.gms.phenotype/com.google.android.gms.fonts [CONTEXT service_id=51 ]
+08-29 01:26:41.793  1264  3301 I FontLog : Received query Noto Color Emoji Compat, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+08-29 01:26:41.794  1264  3301 I FontLog : Query [emojicompat-emoji-font] resolved to {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+08-29 01:26:41.811  1264  3301 I FontLog : Fetch {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+08-29 01:26:41.840  1264  1279 I FontLog : Pulling font file for id = 17, cache size = 8 [CONTEXT service_id=132 ]
+08-29 01:26:41.845   570   618 I ActivityTaskManager: Displayed com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity: +1s336ms
+08-29 01:26:41.858  1264  3301 I FontLog : Pulling font file for id = 17, cache size = 8 [CONTEXT service_id=132 ]
+08-29 01:26:41.869  8191  8191 D CompatibilityChangeReporter: Compat change id reported: 171228096; UID 10147; state: ENABLED
+08-29 01:26:41.903  1264  6277 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:41.908  1264  6277 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:41.910  1264  6277 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:41.914  1264  6277 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:41.915  1264  6277 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:41.915  1264  6277 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:41.920  1264  6277 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:41.926  1264  6277 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:41.930  1264  6277 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:41.932  1264  6277 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:41.935  1264  6277 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:41.937  1264  6277 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:41.938  1264  6277 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:41.942  1264  6277 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.octarine [CONTEXT service_id=204 ]
+08-29 01:26:41.942  1264  6277 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.octarine
+08-29 01:26:41.942  1264  6277 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:41.942  1264  6277 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:41.942  1264  6277 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:41.942  1264  6277 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:41.942  1264  6277 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:41.942  1264  6277 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:41.942  1264  6277 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:41.942  1264  6277 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:41.942  1264  6277 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:41.942  1264  6277 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:41.971  1264  5738 I PTCommittedOperation: Receive new configuration for com.google.android.gms.octarine
+08-29 01:26:41.980  1336  6542 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:41.981  1336  7972 V Backup  : [PhenotypeConfigIO] Phenotype broadcast received for different package
+08-29 01:26:41.983  1336  6542 I SyncIntentOperation: Handling the intent: Intent { act=com.google.android.gms.phenotype.COMMITTED flg=0x10 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }. [CONTEXT service_id=80 ]
+08-29 01:26:42.006  1336  7959 I MdiSyncModule: flag handling is skipping irrelevant intent.
+08-29 01:26:42.012  1336  6537 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:42.036  1336  7959 I GmsSyncPolicyEngine: Periodic sync 1 disabled by policy, cancelled.
+08-29 01:26:42.037  1264  7876 W TapAndPay: platformSupportsGooglePay: true [CONTEXT service_id=79 ]
+08-29 01:26:42.038  1264  7876 W TapAndPay: hasManagedProfile: false [CONTEXT service_id=79 ]
+08-29 01:26:42.041  1264  7876 W TapAndPay: isChromeOsDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:42.049  1264  7876 W TapAndPay: isUncertifiedDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:42.052  1336  7959 I GmsSyncPolicyEngine: Periodic sync 2 disabled by policy, cancelled.
+08-29 01:26:42.054  1264  7938 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:42.061  1264  7876 W TapAndPay: deviceSupportsTokenization: true [CONTEXT service_id=79 ]
+08-29 01:26:42.061  1264  7876 W TapAndPay: isGooglePayEnabled: true [CONTEXT service_id=79 ]
+08-29 01:26:42.062  1264  7938 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:42.070  1264  7938 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:42.077   570  2480 W InputManager-JNI: Input channel object 'c7a386 Splash Screen com.example.lunchtray (client)' was disposed without first being removed with the input manager!
+08-29 01:26:42.078  1264  7938 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:42.083  1264  7938 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:42.095  1264  7938 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:42.106  1264  7938 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:42.109  1264  7938 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:42.111  1264  7938 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:42.113  1264  7938 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:42.114  1264  7938 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:42.125  1264  7938 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:42.132  1264  7938 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:42.137  1264  7938 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.googlehelp [CONTEXT service_id=204 ]
+08-29 01:26:42.137  1264  7938 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.googlehelp
+08-29 01:26:42.137  1264  7938 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:42.137  1264  7938 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:42.137  1264  7938 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:42.137  1264  7938 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:42.137  1264  7938 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:42.137  1264  7938 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:42.137  1264  7938 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:42.137  1264  7938 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:42.137  1264  7938 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:42.137  1264  7938 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:42.216  1264  7938 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:42.217  1264  7938 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:42.224  1264  7938 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:42.230  1264  7938 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:42.233  1264  7938 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:42.234  1264  7938 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:42.237  1264  7938 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:42.238  1264  7938 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:42.239  1264  7938 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:42.240  1264  7938 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:42.242  1264  7938 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:42.243  1264  7938 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:42.246  1264  7938 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:42.249  1264  7938 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.chromesync [CONTEXT service_id=204 ]
+08-29 01:26:42.249  1264  7938 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.chromesync
+08-29 01:26:42.249  1264  7938 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:42.249  1264  7938 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:42.249  1264  7938 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:42.249  1264  7938 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:42.249  1264  7938 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:42.249  1264  7938 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:42.249  1264  7938 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:42.249  1264  7938 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:42.249  1264  7938 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:42.249  1264  7938 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:42.256  1264  7557 I PTCommittedOperation: Receive new configuration for com.google.android.gms.chromesync
+08-29 01:26:42.266  1336  7849 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:42.267  1336  7768 V Backup  : [PhenotypeConfigIO] Phenotype broadcast received for different package
+08-29 01:26:42.274  1264  5738 W TapAndPay: platformSupportsGooglePay: true [CONTEXT service_id=79 ]
+08-29 01:26:42.278  1264  5738 W TapAndPay: hasManagedProfile: false [CONTEXT service_id=79 ]
+08-29 01:26:42.281  1264  5738 W TapAndPay: isChromeOsDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:42.281  1264  5738 W TapAndPay: isUncertifiedDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:42.286  1264  5738 W TapAndPay: deviceSupportsTokenization: true [CONTEXT service_id=79 ]
+08-29 01:26:42.287  1264  5738 W TapAndPay: isGooglePayEnabled: true [CONTEXT service_id=79 ]
+08-29 01:26:42.300  1336  6537 I SyncIntentOperation: Handling the intent: Intent { act=com.google.android.gms.phenotype.COMMITTED flg=0x10 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }. [CONTEXT service_id=80 ]
+08-29 01:26:42.311  1336  7849 I MdiSyncModule: flag handling is skipping irrelevant intent.
+08-29 01:26:42.324  1336  7971 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:42.335  1336  6537 I GmsSyncPolicyEngine: Periodic sync 1 disabled by policy, cancelled.
+08-29 01:26:42.349  1336  6537 I GmsSyncPolicyEngine: Periodic sync 2 disabled by policy, cancelled.
+08-29 01:26:42.365  1264  7938 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:42.369  1264  7938 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:42.370  1264  7938 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:42.372  1264  7938 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:42.375  1264  7938 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:42.376  1264  7938 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:42.378  1264  7938 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:42.379  1264  7938 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:42.381  1264  7938 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:42.382  1264  7938 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:42.385  1264  7938 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:42.387  1264  7938 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:42.393  1264  7938 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:42.397  1264  7938 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.statementservice [CONTEXT service_id=204 ]
+08-29 01:26:42.397  1264  7938 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.statementservice
+08-29 01:26:42.397  1264  7938 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:42.397  1264  7938 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:42.397  1264  7938 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:42.397  1264  7938 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:42.397  1264  7938 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:42.397  1264  7938 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:42.397  1264  7938 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:42.397  1264  7938 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:42.397  1264  7938 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:42.397  1264  7938 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:42.430  1264  7557 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:42.432  1264  7557 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:42.435  1264  7557 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:42.439  1264  7557 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:42.443  1264  7557 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:42.448  1264  7557 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:42.452  1264  7557 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:42.453  1264  7557 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:42.455  1264  7557 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:42.465  1264  7557 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:42.469  1264  7557 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:42.470  1264  7557 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:42.475  1264  7557 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:42.476  1264  7939 I PTCommittedOperation: Receive new configuration for com.google.android.gms.credential_manager
+08-29 01:26:42.480  1264  7557 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.credential_manager [CONTEXT service_id=204 ]
+08-29 01:26:42.480  1264  7557 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.credential_manager
+08-29 01:26:42.480  1264  7557 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:42.480  1264  7557 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:42.480  1264  7557 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:42.480  1264  7557 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:42.480  1264  7557 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:42.480  1264  7557 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:42.480  1264  7557 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:42.480  1264  7557 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:42.480  1264  7557 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:42.480  1264  7557 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:42.482  1336  7971 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:42.483  1336  7959 V Backup  : [PhenotypeConfigIO] Phenotype broadcast received for different package
+08-29 01:26:42.488  1336  7959 I SyncIntentOperation: Handling the intent: Intent { act=com.google.android.gms.phenotype.COMMITTED flg=0x10 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }. [CONTEXT service_id=80 ]
+08-29 01:26:42.503  1264  7939 W TapAndPay: platformSupportsGooglePay: true [CONTEXT service_id=79 ]
+08-29 01:26:42.503  1264  7939 W TapAndPay: hasManagedProfile: false [CONTEXT service_id=79 ]
+08-29 01:26:42.506  1264  7939 W TapAndPay: isChromeOsDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:42.507  1264  7939 W TapAndPay: isUncertifiedDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:42.508  1264  7939 W TapAndPay: deviceSupportsTokenization: true [CONTEXT service_id=79 ]
+08-29 01:26:42.509  1264  7939 W TapAndPay: isGooglePayEnabled: true [CONTEXT service_id=79 ]
+08-29 01:26:42.524  1336  7971 I MdiSyncModule: flag handling is skipping irrelevant intent.
+08-29 01:26:42.529  8191  8191 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c03a593 in: STOPPED
+08-29 01:26:42.531  8191  8191 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c03a593
+08-29 01:26:42.538  1336  7849 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:42.545  1336  6542 I GmsSyncPolicyEngine: Periodic sync 1 disabled by policy, cancelled.
+08-29 01:26:42.552  1336  6542 I GmsSyncPolicyEngine: Periodic sync 2 disabled by policy, cancelled.
+08-29 01:26:42.581  1264  8232 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:42.582  1264  8232 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:42.584  1264  8232 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:42.585  1264  8232 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:42.587  1264  8232 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:42.588  1264  8232 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:42.588  1264  8232 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:42.590  1264  8232 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:42.591  1264  8232 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:42.593  1264  8232 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:42.594  1264  8232 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:42.596  1264  8232 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:42.596  1264  8232 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:42.599  1264  8232 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.chimera_debug [CONTEXT service_id=204 ]
+08-29 01:26:42.599  1264  8232 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.chimera_debug
+08-29 01:26:42.599  1264  8232 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:42.599  1264  8232 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:42.599  1264  8232 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:42.599  1264  8232 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:42.599  1264  8232 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:42.599  1264  8232 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:42.599  1264  8232 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:42.599  1264  8232 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:42.599  1264  8232 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:42.599  1264  8232 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:42.643  1264  7939 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:42.648  1264  7939 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:42.650  1264  7939 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:42.651  1264  7939 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:42.656  1264  7939 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:42.657  1264  7939 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:42.658  1264  7939 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:42.659  1264  7939 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:42.662  1264  7939 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:42.665  1264  7939 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:42.671  1264  7939 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:42.672  1264  7876 I PTCommittedOperation: Receive new configuration for com.google.android.gms.autofill
+08-29 01:26:42.674  1264  7939 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:42.677  1264  7939 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:42.685  1264  7939 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.autofill [CONTEXT service_id=204 ]
+08-29 01:26:42.685  1264  7939 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.autofill
+08-29 01:26:42.685  1264  7939 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:42.685  1264  7939 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:42.685  1264  7939 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:42.685  1264  7939 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:42.685  1264  7939 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:42.685  1264  7939 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:42.685  1264  7939 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:42.685  1264  7939 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:42.685  1264  7939 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:42.685  1264  7939 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:42.690  1264  6299 W TapAndPay: platformSupportsGooglePay: true [CONTEXT service_id=79 ]
+08-29 01:26:42.691  1264  6299 W TapAndPay: hasManagedProfile: false [CONTEXT service_id=79 ]
+08-29 01:26:42.691  1264  6299 W TapAndPay: isChromeOsDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:42.692  1264  6299 W TapAndPay: isUncertifiedDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:42.693  1264  6299 W TapAndPay: deviceSupportsTokenization: true [CONTEXT service_id=79 ]
+08-29 01:26:42.696  1264  6299 W TapAndPay: isGooglePayEnabled: true [CONTEXT service_id=79 ]
+08-29 01:26:42.699  1336  6537 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:42.700  1336  7959 V Backup  : [PhenotypeConfigIO] Phenotype broadcast received for different package
+08-29 01:26:42.706  1336  6537 I SyncIntentOperation: Handling the intent: Intent { act=com.google.android.gms.phenotype.COMMITTED flg=0x10 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }. [CONTEXT service_id=80 ]
+08-29 01:26:42.715  1336  6537 I MdiSyncModule: flag handling is skipping irrelevant intent.
+08-29 01:26:42.722  1336  7959 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:42.734  8191  8218 D EventInjectionStrategy: Creating injection strategy with input manager.
+08-29 01:26:42.735  1336  6542 I GmsSyncPolicyEngine: Periodic sync 1 disabled by policy, cancelled.
+08-29 01:26:42.738  8191  8218 W ample.lunchtra: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (unsupported, reflection, allowed)
+08-29 01:26:42.745  8191  8218 W ample.lunchtra: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (unsupported, reflection, allowed)
+08-29 01:26:42.746  8191  8218 W ample.lunchtra: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (unsupported, reflection, allowed)
+08-29 01:26:42.751  1336  6542 I GmsSyncPolicyEngine: Periodic sync 2 disabled by policy, cancelled.
+08-29 01:26:42.790  1264  8232 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:42.792  1264  8232 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:42.793  1264  8232 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:42.794  1264  8232 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:42.796  1264  8232 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:42.797  1264  8232 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:42.804  1264  8232 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:42.812  1264  8232 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:42.825  1469  1469 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3420
+08-29 01:26:42.830  1264  8232 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:42.832  1264  8232 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:42.844  1264  8232 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:42.856  1264  8232 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:42.857  1469  1469 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():2002
+08-29 01:26:42.861  1264  8232 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:42.861  1469  1469 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():31 Notify device unlocked.
+08-29 01:26:42.869  1264  8232 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.maps#com.google.android.gms [CONTEXT service_id=204 ]
+08-29 01:26:42.869  1264  8232 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.maps#com.google.android.gms
+08-29 01:26:42.869  1264  8232 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:42.869  1264  8232 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:42.869  1264  8232 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:42.869  1264  8232 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:42.869  1264  8232 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:42.869  1264  8232 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:42.869  1264  8232 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:42.869  1264  8232 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:42.869  1264  8232 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:42.869  1264  8232 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:42.926  1264  8232 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:42.932  1264  8232 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:42.937  1264  6277 I PTCommittedOperation: Receive new configuration for com.google.android.gms.cast
+08-29 01:26:42.940  1264  8232 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:42.941  1264  8232 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:42.946  1264  8232 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:42.946  1264  8232 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:42.949  1264  8232 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:42.952  1264  8232 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:42.953  1264  8232 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:42.954  1264  8232 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:42.954  1264  8232 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:42.955  1264  8232 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:42.956  1264  8232 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:42.957  8191  8204 I OpenGLRenderer: Davey! duration=817ms; Flags=0, FrameTimelineVsyncId=6788, IntendedVsync=232766825954, Vsync=233166825938, InputEventId=0, HandleInputStart=233168011700, AnimationStart=233168067900, PerformTraversalsStart=233168678400, DrawStart=233395269100, FrameDeadline=232783492620, FrameInterval=233167986700, FrameStartTime=16666666, SyncQueued=233406267200, SyncStart=233406363500, IssueDrawCommandsStart=233406455400, SwapBuffers=233578981000, FrameCompleted=233583929500, DequeueBufferDuration=33400, QueueBufferDuration=2869900, GpuCompleted=233583756700, SwapBuffersCompleted=233583929500, DisplayPresentTime=0,
+08-29 01:26:42.962  1336  6542 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:42.967  1336  6542 V Backup  : [PhenotypeConfigIO] Phenotype broadcast received for different package
+08-29 01:26:42.970  1264  8232 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.cast [CONTEXT service_id=204 ]
+08-29 01:26:42.970  1264  8232 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.cast
+08-29 01:26:42.970  1264  8232 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:42.970  1264  8232 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:42.970  1264  8232 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:42.970  1264  8232 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:42.970  1264  8232 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:42.970  1264  8232 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:42.970  1264  8232 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:42.970  1264  8232 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:42.970  1264  8232 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:42.970  1264  8232 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:42.972  1336  7849 I SyncIntentOperation: Handling the intent: Intent { act=com.google.android.gms.phenotype.COMMITTED flg=0x10 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }. [CONTEXT service_id=80 ]
+08-29 01:26:42.983  1264  7939 W TapAndPay: platformSupportsGooglePay: true [CONTEXT service_id=79 ]
+08-29 01:26:42.983  1264  7939 W TapAndPay: hasManagedProfile: false [CONTEXT service_id=79 ]
+08-29 01:26:42.985  1264  7939 W TapAndPay: isChromeOsDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:42.985  1264  7939 W TapAndPay: isUncertifiedDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:42.986  1264  7939 W TapAndPay: deviceSupportsTokenization: true [CONTEXT service_id=79 ]
+08-29 01:26:42.987  1264  7939 W TapAndPay: isGooglePayEnabled: true [CONTEXT service_id=79 ]
+08-29 01:26:43.019  1336  7849 I MdiSyncModule: flag handling is skipping irrelevant intent.
+08-29 01:26:43.038  8191  8218 W ample.lunchtra: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (unsupported, reflection, allowed)
+08-29 01:26:43.041  1336  7959 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:43.044  1336  6542 I GmsSyncPolicyEngine: Periodic sync 1 disabled by policy, cancelled.
+08-29 01:26:43.051  1336  6542 I GmsSyncPolicyEngine: Periodic sync 2 disabled by policy, cancelled.
+08-29 01:26:43.094  8191  8191 W ample.lunchtra: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (unsupported, reflection, allowed)
+08-29 01:26:43.094  8191  8191 W ample.lunchtra: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (unsupported, reflection, allowed)
+08-29 01:26:43.095  8191  8191 W ample.lunchtra: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (unsupported, reflection, allowed)
+08-29 01:26:43.099  1264  6297 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:43.104  1264  6297 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:43.115  1264  7939 I PTCommittedOperation: Receive new configuration for com.google.android.gms.fido
+08-29 01:26:43.115  1264  6297 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:43.116  1264  6297 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:43.120  1264  6297 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:43.121  1264  6297 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:43.123  1264  6297 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:43.126  1264  6297 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:43.128  1264  6297 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:43.130  1264  6297 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:43.135  8191  8191 W ample.lunchtra: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (unsupported, reflection, allowed)
+08-29 01:26:43.135  8191  8191 W ample.lunchtra: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+08-29 01:26:43.135  8191  8191 W ample.lunchtra: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+08-29 01:26:43.136  1264  6297 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:43.138  1264  6297 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:43.140  1264  6297 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:43.143  1264  6297 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.fido [CONTEXT service_id=204 ]
+08-29 01:26:43.143  1264  6297 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.fido
+08-29 01:26:43.143  1264  6297 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:43.143  1264  6297 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:43.143  1264  6297 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:43.143  1264  6297 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:43.143  1264  6297 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:43.143  1264  6297 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:43.143  1264  6297 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:43.143  1264  6297 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:43.143  1264  6297 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:43.143  1264  6297 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:43.155  1336  7971 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:43.156  1336  6537 V Backup  : [PhenotypeConfigIO] Phenotype broadcast received for different package
+08-29 01:26:43.165  1336  7849 I SyncIntentOperation: Handling the intent: Intent { act=com.google.android.gms.phenotype.COMMITTED flg=0x10 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }. [CONTEXT service_id=80 ]
+08-29 01:26:43.172  1264  7876 W TapAndPay: platformSupportsGooglePay: true [CONTEXT service_id=79 ]
+08-29 01:26:43.173  1264  7876 W TapAndPay: hasManagedProfile: false [CONTEXT service_id=79 ]
+08-29 01:26:43.173  1264  7876 W TapAndPay: isChromeOsDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:43.175  8191  8191 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230843/com.example.lunchtray:id/bread>
+08-29 01:26:43.175  1264  7876 W TapAndPay: isUncertifiedDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:43.176  1264  7876 W TapAndPay: deviceSupportsTokenization: true [CONTEXT service_id=79 ]
+08-29 01:26:43.178  1264  7876 W TapAndPay: isGooglePayEnabled: true [CONTEXT service_id=79 ]
+08-29 01:26:43.211  1336  7971 I MdiSyncModule: flag handling is skipping irrelevant intent.
+08-29 01:26:43.221  1264  1264 I Fido    : [CableAuthenticatorChimeraService] Registering broadcast receiver.
+08-29 01:26:43.226  1336  7768 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:43.234  1336  7889 I GmsSyncPolicyEngine: Periodic sync 1 disabled by policy, cancelled.
+08-29 01:26:43.245  1336  7889 I GmsSyncPolicyEngine: Periodic sync 2 disabled by policy, cancelled.
+08-29 01:26:43.253  1336  1345 I gle.android.gm: Background young concurrent copying GC freed 134268(5747KB) AllocSpace objects, 0(0B) LOS objects, 15% free, 30MB/36MB, paused 1.561ms,145us total 231.341ms
+08-29 01:26:43.365  1264  7939 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:43.371  1264  7939 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:43.379  1264  7939 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:43.391  1264  7939 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:43.403  1336  6542 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:43.403  1336  6537 V Backup  : [PhenotypeConfigIO] Phenotype broadcast received for different package
+08-29 01:26:43.406  1336  6542 I SyncIntentOperation: Handling the intent: Intent { act=com.google.android.gms.phenotype.COMMITTED flg=0x10 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }. [CONTEXT service_id=80 ]
+08-29 01:26:43.427  1264  7939 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:43.430  1264  7939 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:43.442  1264  7939 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:43.445  1264  7939 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:43.451  1264  7939 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:43.465  1336  7849 I MdiSyncModule: flag handling is skipping irrelevant intent.
+08-29 01:26:43.469  1264  7939 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:43.478  1264  6297 I PTCommittedOperation: Receive new configuration for com.google.android.gms.gass
+08-29 01:26:43.507  1264  7939 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:43.514  1264  7939 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:43.523  1264  7939 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:43.523  1336  7889 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:43.531   424   538 D AudioFlinger: mixer(0x786351da5a70) throttle end: throttle time(17)
+08-29 01:26:43.532  1264  8232 W TapAndPay: platformSupportsGooglePay: true [CONTEXT service_id=79 ]
+08-29 01:26:43.535  1264  8232 W TapAndPay: hasManagedProfile: false [CONTEXT service_id=79 ]
+08-29 01:26:43.535  1264  8232 W TapAndPay: isChromeOsDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:43.544  1264  8232 W TapAndPay: isUncertifiedDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:43.544  1264  8232 W TapAndPay: deviceSupportsTokenization: true [CONTEXT service_id=79 ]
+08-29 01:26:43.545  1264  8232 W TapAndPay: isGooglePayEnabled: true [CONTEXT service_id=79 ]
+08-29 01:26:43.545  1264  7939 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.gass [CONTEXT service_id=204 ]
+08-29 01:26:43.545  1264  7939 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.gass
+08-29 01:26:43.545  1264  7939 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:43.545  1264  7939 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:43.545  1264  7939 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:43.545  1264  7939 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:43.545  1264  7939 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:43.545  1264  7939 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:43.545  1264  7939 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:43.545  1264  7939 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:43.545  1264  7939 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:43.545  1264  7939 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:43.559  1336  7889 I GmsSyncPolicyEngine: Periodic sync 1 disabled by policy, cancelled.
+08-29 01:26:43.571  1336  7889 I GmsSyncPolicyEngine: Periodic sync 2 disabled by policy, cancelled.
+08-29 01:26:43.600  1264  6299 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:43.604  1264  6299 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:43.610  1264  6299 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:43.611  1264  6299 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:43.620  1264  6299 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:43.625  1264  6299 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:43.628  1264  6299 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:43.637  1264  6299 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:43.641  1264  6299 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:43.642  1264  6299 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:43.644  1264  6299 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:43.646  1264  6299 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:43.650  1264  6299 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:43.654  1264  6299 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.kids [CONTEXT service_id=204 ]
+08-29 01:26:43.654  1264  6299 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.kids
+08-29 01:26:43.654  1264  6299 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:43.654  1264  6299 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:43.654  1264  6299 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:43.654  1264  6299 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:43.654  1264  6299 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:43.654  1264  6299 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:43.654  1264  6299 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:43.654  1264  6299 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:43.654  1264  6299 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:43.654  1264  6299 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:43.697  1264  7939 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:43.698  1264  1878 W ChimeraUtils: Module com.google.android.gms.nearby_en has empty metadata display_name_string_id
+08-29 01:26:43.699  1264  7939 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:43.701  1264  7939 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:43.704  1264  1878 W ChimeraUtils: Module com.google.android.gms.nearby_en has empty metadata display_name_string_id
+08-29 01:26:43.711  1264  7939 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:43.717  1264  7939 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:43.726  1336  7768 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:43.734  1336  7971 V Backup  : [PhenotypeConfigIO] Phenotype broadcast received for different package
+08-29 01:26:43.734  1336  7768 I SyncIntentOperation: Handling the intent: Intent { act=com.google.android.gms.phenotype.COMMITTED flg=0x10 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }. [CONTEXT service_id=80 ]
+08-29 01:26:43.737  1264  7939 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:43.745  8191  8191 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $0.50"}' assertion on view view.getId() is <2131231221/com.example.lunchtray:id/subtotal>
+08-29 01:26:43.751  8191  8191 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230833/com.example.lunchtray:id/berries>
+08-29 01:26:43.762  1264  7939 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:43.767  1336  7849 I MdiSyncModule: flag handling is skipping irrelevant intent.
+08-29 01:26:43.768  1264  7939 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:43.773  1264  6299 I PTCommittedOperation: Receive new configuration for com.google.android.gms.auth_folsom
+08-29 01:26:43.779  1264  7939 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:43.788  1264  7939 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:43.796  1336  7849 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:43.804  1264  7939 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:43.805  1264  7939 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:43.812  1336  7849 I GmsSyncPolicyEngine: Periodic sync 1 disabled by policy, cancelled.
+08-29 01:26:43.844  1264  7557 W TapAndPay: platformSupportsGooglePay: true [CONTEXT service_id=79 ]
+08-29 01:26:43.845  1264  7557 W TapAndPay: hasManagedProfile: false [CONTEXT service_id=79 ]
+08-29 01:26:43.845  1264  7557 W TapAndPay: isChromeOsDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:43.846  1264  7557 W TapAndPay: isUncertifiedDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:43.846  1264  7557 W TapAndPay: deviceSupportsTokenization: true [CONTEXT service_id=79 ]
+08-29 01:26:43.847  1264  7557 W TapAndPay: isGooglePayEnabled: true [CONTEXT service_id=79 ]
+08-29 01:26:43.864  1264  7939 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:43.866  1264  7939 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.auth_folsom [CONTEXT service_id=204 ]
+08-29 01:26:43.866  1264  7939 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.auth_folsom
+08-29 01:26:43.866  1264  7939 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:43.866  1264  7939 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:43.866  1264  7939 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:43.866  1264  7939 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:43.866  1264  7939 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:43.866  1264  7939 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:43.866  1264  7939 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:43.866  1264  7939 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:43.866  1264  7939 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:43.866  1264  7939 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:43.881  1336  7849 I GmsSyncPolicyEngine: Periodic sync 2 disabled by policy, cancelled.
+08-29 01:26:43.930  1264  7876 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:43.932  1264  7876 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:43.941  1264  7876 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:43.945  1264  7876 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:43.948  1264  7876 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:43.949  1264  7876 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:43.953  1336  7971 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:43.953  1264  7876 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:43.954  1264  7557 I PTCommittedOperation: Receive new configuration for com.google.android.gms.trustagent
+08-29 01:26:43.955  1264  7876 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:43.955  1336  7971 V Backup  : [PhenotypeConfigIO] Phenotype broadcast received for different package
+08-29 01:26:43.958  1336  6542 I SyncIntentOperation: Handling the intent: Intent { act=com.google.android.gms.phenotype.COMMITTED flg=0x10 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }. [CONTEXT service_id=80 ]
+08-29 01:26:43.959  1264  7876 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:43.961  1264  7876 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:43.962  1264  7876 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:43.963  8191  8222 D EGL_emulation: app_time_stats: avg=57.76ms min=3.03ms max=1282.15ms count=36
+08-29 01:26:43.964  1264  7876 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:43.966  1264  7876 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:43.971  1264  7876 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.trustagent [CONTEXT service_id=204 ]
+08-29 01:26:43.971  1264  7876 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.trustagent
+08-29 01:26:43.971  1264  7876 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:43.971  1264  7876 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:43.971  1264  7876 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:43.971  1264  7876 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:43.971  1264  7876 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:43.971  1264  7876 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:43.971  1264  7876 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:43.971  1264  7876 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:43.971  1264  7876 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:43.971  1264  7876 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:43.980  1336  7971 I MdiSyncModule: flag handling is skipping irrelevant intent.
+08-29 01:26:43.986  1264  6297 W TapAndPay: platformSupportsGooglePay: true [CONTEXT service_id=79 ]
+08-29 01:26:43.989  1264  6297 W TapAndPay: hasManagedProfile: false [CONTEXT service_id=79 ]
+08-29 01:26:43.994  1264  6297 W TapAndPay: isChromeOsDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:43.996  1264  6297 W TapAndPay: isUncertifiedDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:43.997  1336  7971 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:44.000  1264  6297 W TapAndPay: deviceSupportsTokenization: true [CONTEXT service_id=79 ]
+08-29 01:26:44.006  1264  6297 W TapAndPay: isGooglePayEnabled: true [CONTEXT service_id=79 ]
+08-29 01:26:44.015  1336  6542 I GmsSyncPolicyEngine: Periodic sync 1 disabled by policy, cancelled.
+08-29 01:26:44.018  1264  5836 W ChimeraUtils: Module com.google.android.gms.nearby_en has empty metadata display_name_string_id
+08-29 01:26:44.029  1336  6542 I GmsSyncPolicyEngine: Periodic sync 2 disabled by policy, cancelled.
+08-29 01:26:44.046  1264  6297 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:44.049  1264  6297 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:44.052  1264  6297 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:44.053  1264  6297 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:44.054  1264  6297 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:44.055  1264  6297 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:44.056  1264  6297 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:44.060  1264  6297 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:44.064  1264  6297 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:44.065  1264  5836 W ChimeraUtils: Module com.google.android.gms.nearby_en has empty metadata display_name_string_id
+08-29 01:26:44.069  1264  6297 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:44.071  1264  6297 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:44.071  1264  6297 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:44.071  1264  6297 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:44.076  1336  6537 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:44.080  1336  7892 V Backup  : [PhenotypeConfigIO] Phenotype broadcast received for different package
+08-29 01:26:44.082  1336  7889 I SyncIntentOperation: Handling the intent: Intent { act=com.google.android.gms.phenotype.COMMITTED flg=0x10 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }. [CONTEXT service_id=80 ]
+08-29 01:26:44.088  1264  5836 W ChimeraUtils: Module com.google.android.gms.nearby_en has empty metadata display_name_string_id
+08-29 01:26:44.093  1264  6297 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.trustlet_onbody [CONTEXT service_id=204 ]
+08-29 01:26:44.093  1264  6297 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.trustlet_onbody
+08-29 01:26:44.093  1264  6297 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:44.093  1264  6297 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:44.093  1264  6297 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:44.093  1264  6297 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:44.093  1264  6297 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:44.093  1264  6297 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:44.093  1264  6297 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:44.093  1264  6297 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:44.093  1264  6297 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:44.093  1264  6297 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:44.098  1264  8232 I PTCommittedOperation: Receive new configuration for com.google.android.gms.trustlet_onbody
+08-29 01:26:44.105  1336  7892 I MdiSyncModule: flag handling is skipping irrelevant intent.
+08-29 01:26:44.124  1264  7939 W TapAndPay: platformSupportsGooglePay: true [CONTEXT service_id=79 ]
+08-29 01:26:44.125  1264  7939 W TapAndPay: hasManagedProfile: false [CONTEXT service_id=79 ]
+08-29 01:26:44.130  1336  7959 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:44.131  1264  7939 W TapAndPay: isChromeOsDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:44.139  1264  7939 W TapAndPay: isUncertifiedDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:44.145  1264  7939 W TapAndPay: deviceSupportsTokenization: true [CONTEXT service_id=79 ]
+08-29 01:26:44.150  1264  7939 W TapAndPay: isGooglePayEnabled: true [CONTEXT service_id=79 ]
+08-29 01:26:44.157  1336  7959 I GmsSyncPolicyEngine: Periodic sync 1 disabled by policy, cancelled.
+08-29 01:26:44.167  1336  7959 I GmsSyncPolicyEngine: Periodic sync 2 disabled by policy, cancelled.
+08-29 01:26:44.213  1264  7557 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:44.218  1264  7557 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:44.225  1264  7557 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:44.227  1264  7557 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:44.231  1264  7557 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:44.233  1264  7557 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:44.252  1264  7557 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:44.254  1264  7557 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:44.258  1264  7557 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:44.259  1264  7557 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:44.260  1264  7557 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:44.261  1264  7557 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:44.262  1264  7557 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:44.265  1264  7557 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.languageprofile [CONTEXT service_id=204 ]
+08-29 01:26:44.265  1264  7557 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.languageprofile
+08-29 01:26:44.265  1264  7557 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:44.265  1264  7557 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:44.265  1264  7557 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:44.265  1264  7557 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:44.265  1264  7557 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:44.265  1264  7557 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:44.265  1264  7557 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:44.265  1264  7557 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:44.265  1264  7557 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:44.265  1264  7557 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:44.281  1336  7892 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:44.288  1336  7892 I SyncIntentOperation: Handling the intent: Intent { act=com.google.android.gms.phenotype.COMMITTED flg=0x10 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }. [CONTEXT service_id=80 ]
+08-29 01:26:44.297   880   880 V MediaPlayerList: mPackageChangedBroadcastReceiver: action: android.intent.action.PACKAGE_CHANGED
+08-29 01:26:44.297   880   880 D MediaPlayerList: Name of package changed: com.google.android.gms
+08-29 01:26:44.306   570   704 I InputReader: Reconfiguring input devices, changes=KEYBOARD_LAYOUTS |
+08-29 01:26:44.311  1336  6542 V Backup  : [PhenotypeConfigIO] Phenotype broadcast received for different package
+08-29 01:26:44.311  1264  1793 W ChimeraUtils: Module com.google.android.gms.nearby_en has empty metadata display_name_string_id
+08-29 01:26:44.338   570   699 I RoleService: Granting default roles...
+08-29 01:26:44.339  1336  7889 I MdiSyncModule: flag handling is skipping irrelevant intent.
+08-29 01:26:44.344   919  1000 I PermissionControllerServiceImpl: Updating user sensitive for uid 10096
+08-29 01:26:44.360  1264  6277 I PTCommittedOperation: Receive new configuration for com.google.android.gms.languageprofile
+08-29 01:26:44.363  1336  2610 I PeopleGalProvider: Gal directories started.
+08-29 01:26:44.365  1336  2610 I PeopleGalProvider: Method 1 completed.
+08-29 01:26:44.365  1336  2610 I PeopleGalProvider: Method 1 finished successfully.
+08-29 01:26:44.382  1336  7892 I LPGcmTaskChimeraService: Scheduling sync task. [CONTEXT service_id=167 ]
+08-29 01:26:44.390  1336  7889 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:44.394  1264  8232 W TapAndPay: platformSupportsGooglePay: true [CONTEXT service_id=79 ]
+08-29 01:26:44.394  1264  8232 W TapAndPay: hasManagedProfile: false [CONTEXT service_id=79 ]
+08-29 01:26:44.394  1264  8232 W TapAndPay: isChromeOsDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:44.394  1264  8232 W TapAndPay: isUncertifiedDevice: false [CONTEXT service_id=79 ]
+08-29 01:26:44.395  1264  8232 W TapAndPay: deviceSupportsTokenization: true [CONTEXT service_id=79 ]
+08-29 01:26:44.395  1264  8232 W TapAndPay: isGooglePayEnabled: true [CONTEXT service_id=79 ]
+08-29 01:26:44.404   919  1106 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.contacts
+08-29 01:26:44.418  1336  7892 I GmsSyncPolicyEngine: Periodic sync 2 disabled by policy, cancelled.
+08-29 01:26:44.430  8191  8191 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $1.00"}' assertion on view view.getId() is <2131231221/com.example.lunchtray:id/subtotal>
+08-29 01:26:44.433  1336  7971 I GmsSyncPolicyEngine: Periodic sync 1 disabled by policy, cancelled.
+08-29 01:26:44.438  8191  8191 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231117/com.example.lunchtray:id/pickles>
+08-29 01:26:44.461   919  1106 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.as
+08-29 01:26:44.477  2231  2231 I BgTaskExecutorImpl: Starting EXCLUSIVE background task INTERNAL_PERIODIC_TASK_SYNC.
+08-29 01:26:44.484  1336  7971 I GmsSyncPolicyEngine: Periodic sync 2 disabled by policy, cancelled.
+08-29 01:26:44.500  2231  2231 I BgTaskExecutorImpl: Starting NONEXCLUSIVE background task DOODLE_SCHEDULE_SYNC_TASK.
+08-29 01:26:44.504   919   930 I ssioncontrolle: Background young concurrent copying GC freed 62919(3643KB) AllocSpace objects, 0(0B) LOS objects, 45% free, 4270KB/7908KB, paused 928us,108us total 131.658ms
+08-29 01:26:44.501  1264  1793 W ChimeraUtils: Module com.google.android.gms.nearby_en has empty metadata display_name_string_id
+08-29 01:26:44.516  1264  1793 W ChimeraUtils: Module com.google.android.gms.nearby_en has empty metadata display_name_string_id
+08-29 01:26:44.582  1264  6299 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:44.586  2231  2409 W SearchServiceCore: Abort, client detached.
+08-29 01:26:44.590  1264  6299 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+08-29 01:26:44.592  2032  8238 D DownloadManager: [2] Starting
+08-29 01:26:44.595  1264  6299 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+08-29 01:26:44.603  1264  6299 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+08-29 01:26:44.652  1264  6299 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:44.653  1264  6299 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+08-29 01:26:44.659   919  1106 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.as
+08-29 01:26:44.659  2032  8238 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+08-29 01:26:44.661  1264  6299 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+08-29 01:26:44.664  1138  1138 D CarrierSvcBindHelper: No carrier app for: 0
+08-29 01:26:44.664  1264  6299 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+08-29 01:26:44.665  1138  1138 D ImsResolver: maybeAddedImsService, packageName: com.google.android.gms
+08-29 01:26:44.673   919  1106 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.as
+08-29 01:26:44.674  2032  8238 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+08-29 01:26:44.678  1264  6299 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+08-29 01:26:44.690   349  8239 D resolv  : GetAddrInfoHandler::run: {100 983140 100 983140 10056 0}
+08-29 01:26:44.691   349  8239 D resolv  : resolv_getaddrinfo: explore_fqdn(): ai_family=0 ai_socktype=1 ai_protocol=6
+08-29 01:26:44.697   349  8240 D resolv  : doQuery: (1, 28)
+08-29 01:26:44.697   349  8240 D resolv  : res_nmkquery: (QUERY, IN, AAAA)
+08-29 01:26:44.697   349  8240 D resolv  : res_nsend
+08-29 01:26:44.699   349  8240 I resolv  : resolv_cache_lookup: lookup
+08-29 01:26:44.701   349  8240 I resolv  : resolv_cache_lookup: FOUND IN CACHE entry=0x762d04013b50
+08-29 01:26:44.701   349  8240 D resolv  : doQuery: rcode=0, ancount=1
+08-29 01:26:44.705   349  8241 D resolv  : doQuery: (1, 1)
+08-29 01:26:44.705  1336  7628 I Icing   : updateResources: need to parse yho{com.google.android.gms}
+08-29 01:26:44.705   349  8241 D resolv  : res_nmkquery: (QUERY, IN, A)
+08-29 01:26:44.705   349  8241 D resolv  : res_nsend
+08-29 01:26:44.706   349  8241 I resolv  : resolv_cache_lookup: lookup
+08-29 01:26:44.706   349  8241 I resolv  : resolv_cache_lookup: FOUND IN CACHE entry=0x762cf40162a0
+08-29 01:26:44.706   349  8241 D resolv  : doQuery: rcode=0, ancount=1
+08-29 01:26:44.730  1264  6299 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+08-29 01:26:44.733  1264  6299 I ExperimentPackageManage: Package com.google.android.adservices.api name not found! Using module version.
+08-29 01:26:44.735  1264  6299 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+08-29 01:26:44.739  1264  6299 I ExperimentPackageManage: Package 1 name not found! Using module version.
+08-29 01:26:44.754  1264  6299 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.gms.mobile_data_plan [CONTEXT service_id=204 ]
+08-29 01:26:44.754  1264  6299 W PhenotypeConfigurationU: ajmi: No package exists for config package: com.google.android.gms.mobile_data_plan
+08-29 01:26:44.754  1264  6299 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214218056@21.42.18 (190800-410302452):7)
+08-29 01:26:44.754  1264  6299 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:44.754  1264  6299 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:44.754  1264  6299 W PhenotypeConfigurationU: 	at oco.onHandleIntent(:com.google.android.gms@214218056@21.42.18 (190800-410302452):4)
+08-29 01:26:44.754  1264  6299 W PhenotypeConfigurationU: 	at dqv.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):5)
+08-29 01:26:44.754  1264  6299 W PhenotypeConfigurationU: 	at dqu.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):11)
+08-29 01:26:44.754  1264  6299 W PhenotypeConfigurationU: 	at bepz.run(:com.google.android.gms@214218056@21.42.18 (190800-410302452):2)
+08-29 01:26:44.754  1264  6299 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 01:26:44.754  1264  6299 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 01:26:44.754  1264  6299 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:920)
+08-29 01:26:44.775   570  2591 W system_server: Long monitor contention with owner Binder:570_B (1614) at boolean com.android.server.job.JobServiceContext.executeRunnableJob(com.android.server.job.controllers.JobStatus, int)(JobServiceContext.java:354) waiters=0 in void com.android.server.job.JobServiceContext.doCallback(com.android.server.job.JobServiceContext$JobCallback, boolean, java.lang.String) for 160ms
+08-29 01:26:44.782   570  2481 W system_server: Long monitor contention with owner Binder:570_B (1614) at boolean com.android.server.job.JobServiceContext.executeRunnableJob(com.android.server.job.controllers.JobStatus, int)(JobServiceContext.java:354) waiters=1 in android.app.job.JobInfo com.android.server.job.JobSchedulerService.getPendingJob(int, int) for 186ms
+08-29 01:26:44.794  1264  7557 I Fitness : OnPackageChangedOperation got intent: Intent { act=android.intent.action.PACKAGE_CHANGED dat=package:com.google.android.gms flg=0x45000010 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.PersistentIntentOperationService (has extras) } [CONTEXT service_id=17 ]
+08-29 01:26:44.801  2231  2231 I BgTaskExecutorImpl: Starting PERIODIC background task DOODLE_SCHEDULE_SYNC_TASK.
+08-29 01:26:44.814  1336  7768 W ModuleInitIntentOp: Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+08-29 01:26:44.817  8191  8191 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $0.50"}' assertion on view view.getId() is <2131231221/com.example.lunchtray:id/subtotal>
+08-29 01:26:44.817  2231  2409 W SearchServiceCore: Abort, client detached.
+08-29 01:26:44.819  8191  8218 I TestRunner: finished: radio_buttons_update_accompaniment_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)
